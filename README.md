@@ -76,15 +76,6 @@ python break_reminder.py
   ~/.break_reminder_state.json
   ```
 
----
-
-## 📂 Project Structure
-
-```
-├── break_reminder.py   # Main Python source code
-├── dist/               # Contains the compiled .exe app
-└── README.md           # Documentation
-```
 
 ---
 
